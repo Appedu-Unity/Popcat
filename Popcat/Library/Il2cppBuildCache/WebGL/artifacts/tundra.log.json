@@ -1,1 +1,3 @@
 {"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"nodeRetryBuild","annotation":"Il2Cpp C:/popcat/Popcat/Popcat/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}
+{"msg":"noderesult","annotation":"Il2Cpp C:/popcat/Popcat/Popcat/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":0,"stdout":"Building build.bc with EmscriptenToolChain\r\n\tOutput directory: C:\\popcat\\Popcat\\Popcat\\Library\\Il2cppBuildCache\\WebGL\\Native\r\n\tCache directory: C:\\popcat\\Popcat\\Popcat\\Library\\il2cpp_cache\r\nObjectFiles: 194 of which compiled: 0\r\nTotal compilation time: 91 milliseconds.\r\nResponse file: C:\\Users\\love0\\AppData\\Local\\Temp\\_420187963\\response.rsp\r\nCleaned up 0 object files."}
